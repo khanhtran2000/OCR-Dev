@@ -5,6 +5,5 @@ Model and weights saved in .pb and .h5 files. This model and its weights will pr
 
 ### **Notebook**
 - Visit my Kaggle profile for the full notebook: https://www.kaggle.com/christranvn/emnist-test-kaggle
-- Here is the rough outline of the notebook:
-  *
-  *
+- Here are some guides for you to better understand the notebook:
+  * I used Kaggle to run the notebook so I basically did not download the datasets to my local computer. That is the directory has the format '../input/').

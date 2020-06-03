@@ -13,3 +13,6 @@ Model and weights saved in .pb and .h5 files. This model and its weights will pr
   * The model follows this [architecture](https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist). 
   * There are some uncommented cells. They do work but sometimes running them before the testing will use up all the RAM. 
 - Visit my Kaggle profile for the full notebook: https://www.kaggle.com/christranvn/emnist-test-kaggle
+
+## Dataset
+Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters. Retrieved from http://arxiv.org/abs/1702.05373

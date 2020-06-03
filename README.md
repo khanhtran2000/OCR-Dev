@@ -7,5 +7,5 @@ A small computer vision project in the making. The goal is to create a simple we
 - Working on CRAFT. 
 
 ### Partners 
-Minh Quan Huynh: https://github.com/hmq1812
-Duc Minh Hoang:
+- Minh Quan Huynh: https://github.com/hmq1812
+- Duc Minh Hoang:

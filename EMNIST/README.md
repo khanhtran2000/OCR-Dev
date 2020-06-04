@@ -4,8 +4,8 @@
 - Model and weights saved in .pb and .h5 files. This model and its weights will produce 91.30% accuracy for an EMNIST test file. The model was trained on EMNIST bymerge with over 620k training images. 
 - `Image Processing and Loading Model.ipynb` contains a function that convert your own images to MNIST (and EMNIST) format. The character or digit will be placed in the center of the image. The background will be black, and the character or digit will be white. Also reshape it to (28,28). 
 
-## Notebook
-- Here are some guides for you to better understand the notebook:
+## EMNIST Notebook
+- Here are some guides for you to better understand `Fork of EMNIST_Test_Kaggle.ipynb`:
   * I used Kaggle to run the notebook so I basically did not download the datasets to my local computer. That is the directory has the format '../input/').
   * `reduce_mem_usage()` is a function to reduce the amount of RAM used for loading datasets into the notebook. Since Kaggle only allows 13GB of RAM, and Google Colab gives 16GB in its free version, it is not enough for loading the datasets and the training the model afterwards. 
   * It takes quite some time to load the datasets this way. But the amount of RAM saved is incredible. 

@@ -6,7 +6,7 @@
 
 ![Before](./images/letter_t.jpg)    ![After](./images/letter_t_edited.jpg)
 
-Before                       After
+     Before                       After
 
 ## EMNIST Notebook
 - Here are some guides for you to better understand `Fork of EMNIST_Test_Kaggle.ipynb`:

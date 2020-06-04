@@ -19,7 +19,7 @@ After
   * It takes quite some time to load the datasets this way. But the amount of RAM saved is incredible. 
   * Kaggle supports Nvida Tesla P100 GPU which is much faster than Google Colab's Nvidia Tesla K80. However, that is in exchange of 3GB of less RAM, and sometimes the notebook can crash before you can test the model.
   * You can leave out `datagen` since data augmentation seems to hurt the performance in this case.
-  * The model follows this [architecture](https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist). 
+  * The model follows this [architecture](https://ww.kaggle.com/cdeotte/25-million-images-0-99757-mnist). 
   * There are some uncommented cells. They do work but sometimes running them before the testing will use up all the RAM. 
 - Visit my Kaggle profile for the full notebook: https://www.kaggle.com/christranvn/emnist-test-kaggle
 

@@ -7,7 +7,7 @@
 <pre>
 ![Before](./images/letter_t.jpg)    ![After](./images/letter_t_edited.jpg)
 
-   Before      After
+Before      After
 </pre>
 
 ## EMNIST Notebook

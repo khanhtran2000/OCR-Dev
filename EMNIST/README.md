@@ -3,6 +3,8 @@
 ## Files
 - Model and weights saved in .pb and .h5 files. This model and its weights will produce 91.30% accuracy for an EMNIST test file. The model was trained on EMNIST bymerge with over 620k training images. 
 - `Image Processing and Loading Model.ipynb` contains a function that convert your own images to MNIST (and EMNIST) format. The character or digit will be placed in the center of the image. The background will be black, and the character or digit will be white. Also reshape it to (28,28). 
+![Before](/image/letter_t.jpg)
+![After](/image/letter_t_edited.jpg)
 
 ## EMNIST Notebook
 - Here are some guides for you to better understand `Fork of EMNIST_Test_Kaggle.ipynb`:

@@ -5,6 +5,7 @@
 - `Image Processing and Loading Model.ipynb` contains a function that convert your own images to MNIST (and EMNIST) format. The character or digit will be placed in the center of the image. The background will be black, and the character or digit will be white. Also reshape it to (28,28). 
 
 ![Before](./images/letter_t.jpg)    ![After](./images/letter_t_edited.jpg)
+Before                       After
 
 ## EMNIST Notebook
 - Here are some guides for you to better understand `Fork of EMNIST_Test_Kaggle.ipynb`:

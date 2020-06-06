@@ -1,7 +1,7 @@
 # EMNIST Recognition Using CNN Keras
 
 ## Files
-- Model and weights saved in .pb and .h5 files. This model and its weights will produce 91.30% accuracy for an EMNIST test file. The model was trained on EMNIST bymerge with over 620k training images. 
+- Model and weights saved in .pb and .h5 files. `emnist_model_bymerge` produces 91.30% accuracy for an EMNIST test file. The model was trained on EMNIST bymerge with over 620k training images. `emnist_model_byclass` was trained on EMNISY byclass dataset also with over 620k training images. The accuracy is 88.20%.
 - `Image Processing and Loading Model Bymerge.ipynb` converts your own images to MNIST (and EMNIST) format. The character or digit will be placed in the center of the image. The background will be black, and the character or digit will be white. Also reshape it to (28,28). 
 - `Image Processing and Loading Model Bymerge.ipynb` loads `emnist_model_weights_bymerge.h5` model.
 

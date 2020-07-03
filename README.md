@@ -14,3 +14,6 @@ A small computer vision project in the making. The goal is to create a simple we
 ## Partners 
 - Minh Quan Huynh: https://github.com/hmq1812
 - Duc Minh Hoang: https://github.com/minhduchoang301/OCR-community-website
+
+## Updating
+Please click on the folders to see new updates. The project is still in the process. 
